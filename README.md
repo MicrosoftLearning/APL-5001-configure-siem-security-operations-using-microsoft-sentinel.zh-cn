@@ -1,3 +1,11 @@
+#README
+
+We've turned off the ability to report issues directly on this repo and do not monitor PRs.
+
+Provide feedback here: https://aka.ms/provide-feedback
+
+Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
+
 # APL-5001：使用 Microsoft Sentinel 配置 SIEM 安全运营
 
 - **[实验室的链接（HTML 格式）]( https://microsoftlearning.github.io/APL-5001-configure-siem-security-operations-using-microsoft-sentinel/)**
