@@ -1,14 +1,6 @@
-#README
+# 使用 Microsoft Sentinel 配置 SIEM 安全运营
 
-We've turned off the ability to report issues directly on this repo and do not monitor PRs.
-
-Provide feedback here: https://aka.ms/provide-feedback
-
-Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
-
-# APL-5001：使用 Microsoft Sentinel 配置 SIEM 安全运营
-
-- **[实验室的链接（HTML 格式）]( https://microsoftlearning.github.io/APL-5001-configure-siem-security-operations-using-microsoft-sentinel/)**
+- **[实验室的链接（HTML 格式）]( https://microsoftlearning.github.io/configure-siem-security-operations-using-microsoft-sentinel/)**
 
 - **你是 MCT 吗？** - 查看 [MCT GitHub 用户指南](https://microsoftlearning.github.io/MCT-User-Guide/)
 
@@ -18,9 +10,9 @@ Or, if you are a trainer with a microsoft.com email address, please create a tic
 
 - 我们希望这会给实验室带来前所未有的协作感 - 当 Azure 或 Microsoft 365 等微软服务发生变化时，并且你在实时交付期间首先发现它时，可以直接在实验室的源头上进行增强。 帮助你的 MCT 伙伴们。
 
-## 我应该如何使用该资源库？
+## 如何使用该资源库？
 
-- 在讲授课程内容时，主要参考的是讲师教材。
+- 教师资料是您教授课程内容的主要来源。
 
 - GitHub 上的这些文件在使用托管实验室环境的课程实验室中使用。
 
@@ -32,6 +24,7 @@ Or, if you are a trainer with a microsoft.com email address, please create a tic
 
 ## 如何参与内容编辑？
 
-- 每位 MCT 都可向 GitHub 存储库中的代码或内容提交拉取请求。 Microsoft 和课程作者将根据需要进行分类，包括内容和实验室代码更改。
+- 任何 MCT（微软认证培训师）都可以对 GitHub 转载的代码或内容提交拉取请求。 Microsoft 和课程作者将根据需要进行分类，包括内容和实验室代码更改。
+然后，Microsoft 和课程作者将根据需要对内容和实验代码进行分流和修改。
 
-- 你可以提交 bug、更改、改进和想法。 在我们之前发现 Azure 或 Microsoft 365 的新功能？ 提交新演示！
+- 您可以提交错误、更改、改进和想法。 先于发现 Azure 或 Microsoft 365 的新功能？ 提交新演示！
