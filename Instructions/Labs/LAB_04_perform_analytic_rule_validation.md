@@ -4,9 +4,9 @@ lab:
   module: Guided Project - Perform a simulated attack to validate Analytic and Automation rules
 ---
 
->**注意**：本实验室建立在实验室 01、02 和 03 的基础上。 为了完成此实验室，你将需要一个 [Azure 订阅](https://azure.microsoft.com/free/?azure-portal=true)。 在其中具有管理访问权限。
+>**注意**：本实验室建立在实验室 01、02 和 03 的基础上。 为了完成此实验室，你将需要一个 [Azure 订阅](https://azure.microsoft.com/free/?azure-portal=true)。 其中您拥有管理权限。
 
-## 一般指南
+## 通用  准则
 
 - 创建对象时，请使用默认设置，除非有不同的配置要求。
 - 只有创建、删除或修改对象才能达到上述要求。 对环境进行不必要的更改可能会对您的最终成绩产生不利影响。
